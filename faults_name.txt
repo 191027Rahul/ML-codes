@@ -1,0 +1,55 @@
+80.5 26.9 55 LF
+75.5 26 0 ADF
+77 29.5 45 MDF 
+80 29 -20 MBT
+81 29.3 -20 MCT
+79.8 30.8 -20 Indus Tsangpo Suture
+75 15.8 25 Krishna River Fault
+79.7 16.5 -37 GF
+74 14.8 12 Tungabhadra Fault
+72.5 20 -83 West Coast Fault
+73 18.7 -65 Chiplun Fault
+77.5 10.5 -40 Vaigai Fault
+77 11.1 -4 Cauvery Fault
+79.3 12.8 90 Nallamalai Shear
+73.6 18.5 -55 Warna Fault
+73.9 20.25 -25 UGF
+70 20.2 2 Kim Fault
+69 23.8 -25 KMF
+69 24.2 1 Allah Bund Fault
+71.9 24.1 -67 Marginal Fault
+73.5 21.8 15 Son Narmada Fault
+73.1 21.3 15 Tapti North Fault
+77.0 22.4 15 Son Narmada South Fault
+76.5 20 -37 Kaddam Fault
+79 20.8 -55 Godavari Valley Fault
+79.4 18.7 -37 KGF
+66 32 42 Chaman Fault
+66 34.95 10 Herat Fault
+72.5 35.8 0 MKT
+74.7 36 -25 Shyok Suture
+75 35.1 -25 Indus Suture Zone
+76.5 36 -45 Karakoram Fault
+76.5 36.6 -7 Altyn Tagh Fault
+76.7 27.6 90 Sohna Fault
+73.8 26 80 Sardar Shahar Fault
+78.5 28.9 20 MF
+78.5 27.9 30 GBF
+76 30.7 -30 MFT
+75.0 33.5 -50 Jwala Mukhi Fault
+83.0 24.5 40 West Patna Fault
+85.5 25 40 MSRF
+87 26 -70 MSRMF
+87.6 21 66 Eocene Hinge Zone
+90 26 -86 Dhubn Fault
+90.5 25.3 0 Dauki Fault
+90.5 23.5 32 Sylhet Fault
+92.0 24.0 -32 Mat Fault
+95.0 17.5 90 Eastern Boundary Thrust Zone
+96.0 16 90 Shan Sagaing Fault
+93.8 25 40 Disang Thrust
+95 30.5 -40 Po Chu Fault
+95 29.5 -40 Lohit Fault
+95 28.5 -40 Mishmi Thrust
+92.5 27.0 -46 Dhansiri-
+92 27.0 -46 Kopili Fault
